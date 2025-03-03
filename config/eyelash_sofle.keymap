@@ -198,6 +198,12 @@
             bindings = <&kp LC(LS(ESCAPE))>;
             key-positions = <51 50>;
         };
+
+        Delete {
+            bindings = <&kp DELETE>;
+            key-positions = <11 12>;
+            layers = <0>;
+        };
     };
 
     behaviors {
