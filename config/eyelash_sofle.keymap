@@ -202,7 +202,6 @@
         Delete {
             bindings = <&kp DELETE>;
             key-positions = <11 12>;
-            layers = <0>;
         };
     };
 
