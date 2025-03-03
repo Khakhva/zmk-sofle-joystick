@@ -329,3 +329,5 @@ combos:
   k: Gui+Sft+$$mdi:arrow-left-bold$$
 - p: [51, 50]
   k: Ctl+Sft+$$mdi:keyboard-esc$$
+- p: [11, 12]
+  k: $$mdi:backspace-reverse-outline$$
