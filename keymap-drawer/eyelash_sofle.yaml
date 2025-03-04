@@ -58,7 +58,7 @@ layers:
   - $$mdi:apple-keyboard-option$$
   - $$mdi:keyboard-space$$
   - {t: '$$mdi:keyboard-return$$', h: Raise}
-  - PLAY PAUSE
+  - {t: '$$mdi:keyboard-return$$', type: enter}
   - {t: '$$mdi:keyboard-return$$', h: Lower}
   - $$mdi:keyboard-space$$
   - Lower
