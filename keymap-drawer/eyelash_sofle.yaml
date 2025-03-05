@@ -28,7 +28,7 @@ layers:
   - {t: '=', s: +}
   - $$mdi:apple-keyboard-control$$
   - A
-  - {t: S, h: '$$mdi:apple-keyboard-option$$'}
+  - S
   - {t: D, h: '$$mdi:apple-keyboard-control$$'}
   - {t: F, h: '$$mdi:apple-keyboard-shift$$'}
   - G
@@ -270,12 +270,6 @@ combos:
   k: (
 - p: [33, 34]
   k: )
-- p: [17, 18]
-  k: COPY
-- p: [20, 21]
-  k: {t: ']', s: '}'}
-- p: [21, 22]
-  k: {t: '=', s: +}
 - p: [35, 36]
   k: {t: '$$mdi:backspace$$', type: backspace}
 - p: [1, 2]
@@ -308,17 +302,11 @@ combos:
 - p: [4, 5]
   k: F10
   l: [Game]
-- p: [1, 2, 3]
-  k: F11
-  l: [Game]
-- p: [2, 3, 4]
-  k: F12
-  l: [Game]
-- p: [17, 16]
-  k: Ctl+C
+- p: [17, 18]
+  k: COPY
   l: [Main]
 - p: [43, 44]
-  k: Ctl+PASTE
+  k: PASTE
   l: [Main]
 - p: [0, 1]
   k: $$mdi:backspace-reverse-outline$$
