@@ -36,7 +36,7 @@ layers:
   - H
   - {t: J, h: '$$mdi:apple-keyboard-shift$$'}
   - {t: K, h: '$$mdi:apple-keyboard-control$$'}
-  - {t: L, h: '$$mdi:apple-keyboard-option$$'}
+  - L
   - {t: ;, h: RIGHT GUI, s: ':'}
   - {t: '''', s: '"'}
   - $$mdi:apple-keyboard-shift$$
@@ -62,7 +62,7 @@ layers:
   - {t: '$$mdi:keyboard-return$$', h: Lower}
   - $$mdi:keyboard-space$$
   - Lower
-  - $$mdi:apple-keyboard-shift$$
+  - $$mdi:apple-keyboard-option$$
   - {t: Game, h: toggle}
   Raise:
   - {t: '`', s: '~'}
@@ -271,7 +271,7 @@ combos:
 - p: [33, 34]
   k: )
 - p: [17, 18]
-  k: {t: '[', s: '{'}
+  k: COPY
 - p: [20, 21]
   k: {t: ']', s: '}'}
 - p: [21, 22]
@@ -317,11 +317,11 @@ combos:
 - p: [17, 16]
   k: Ctl+C
   l: [Main]
-- p: [43, 42]
-  k: Ctl+V
+- p: [43, 44]
+  k: Ctl+PASTE
   l: [Main]
 - p: [0, 1]
-  k: Gui+$$mdi:keyboard-tab$$
+  k: $$mdi:backspace-reverse-outline$$
 - p: [53, 54]
   k: {t: D, h: '$$mdi:apple-keyboard-command$$'}
   l: [Main]
@@ -331,3 +331,7 @@ combos:
   k: Ctl+Sft+$$mdi:keyboard-esc$$
 - p: [11, 12]
   k: $$mdi:backspace-reverse-outline$$
+- p: [42, 43, 44]
+  k: {t: V, h: '$$mdi:apple-keyboard-command$$'}
+- p: [24, 25]
+  k: CALCULATOR
