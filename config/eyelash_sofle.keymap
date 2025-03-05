@@ -202,13 +202,8 @@
             key-positions = <11 12>;
         };
 
-        OpenClipboard {
-            bindings = <&kp LG(V)>;
-            key-positions = <42 43 44>;
-        };
-
         Calculator {
-            bindings = <&kp K_CALCULATOR>;
+            bindings = <&kp C_AL_CALCULATOR>;
             key-positions = <24 25>;
         };
     };
