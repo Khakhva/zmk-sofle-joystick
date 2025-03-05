@@ -687,7 +687,7 @@ rect.held, rect.combo.held {
 </g>
 <g class="combo combopos-9">
 <rect rx="6" ry="6" x="154" y="242" width="28" height="26" class="combo"/>
-<text x="168" y="256" class="combo tap">D</text>
+<text x="168" y="256" class="combo tap">V</text>
 <use href="#mdi:apple-keyboard-command" xlink:href="#mdi:apple-keyboard-command" x="160" y="252" height="15" width="15.0" class="combo hold glyph mdi:apple-keyboard-command"/>
 </g>
 <g class="combo combopos-10">

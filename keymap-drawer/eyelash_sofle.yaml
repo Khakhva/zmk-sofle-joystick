@@ -311,7 +311,7 @@ combos:
 - p: [0, 1]
   k: $$mdi:backspace-reverse-outline$$
 - p: [53, 54]
-  k: {t: D, h: '$$mdi:apple-keyboard-command$$'}
+  k: {t: V, h: '$$mdi:apple-keyboard-command$$'}
   l: [Main]
 - p: [63, 62]
   k: Gui+Sft+$$mdi:arrow-left-bold$$
