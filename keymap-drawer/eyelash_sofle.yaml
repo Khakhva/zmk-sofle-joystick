@@ -331,7 +331,5 @@ combos:
   k: Ctl+Sft+$$mdi:keyboard-esc$$
 - p: [11, 12]
   k: $$mdi:backspace-reverse-outline$$
-- p: [42, 43, 44]
-  k: {t: V, h: '$$mdi:apple-keyboard-command$$'}
 - p: [24, 25]
-  k: CALCULATOR
+  k: AL CALCULATOR
