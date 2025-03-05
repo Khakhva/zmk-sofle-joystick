@@ -154,8 +154,8 @@
             key-positions = <0 1>;
         };
 
-        Desktop {
-            bindings = <&kp LG(D)>;
+        Clipboard {
+            bindings = <&kp LG(V)>;
             key-positions = <53 54>;
             layers = <0>;
         };
