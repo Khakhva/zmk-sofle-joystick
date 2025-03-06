@@ -260,16 +260,8 @@ layers:
   - $$mdi:apple-keyboard-shift$$
   - {t: Game, h: toggle}
 combos:
-- p: [44, 20]
-  k: {t: /, s: '?'}
 - p: [34, 35]
   k: {t: '-', s: _}
-- p: [18, 46]
-  k: {t: \, s: '|'}
-- p: [31, 30]
-  k: (
-- p: [33, 34]
-  k: )
 - p: [35, 36]
   k: {t: '$$mdi:backspace$$', type: backspace}
 - p: [1, 2]
