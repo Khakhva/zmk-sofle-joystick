@@ -265,10 +265,10 @@ combos:
 - p: [35, 36]
   k: {t: '$$mdi:backspace$$', type: backspace}
 - p: [17, 18]
-  k: AC COPY
+  k: Ctl+C
   l: [Main]
 - p: [43, 44]
-  k: AC PASTE
+  k: Ctl+V
   l: [Main]
 - p: [0, 1]
   k: $$mdi:backspace-reverse-outline$$
@@ -283,3 +283,11 @@ combos:
   k: $$mdi:backspace-reverse-outline$$
 - p: [24, 25]
   k: AL CALCULATOR
+- p: [1, 2]
+  k: F2
+- p: [4, 3]
+  k: F4
+- p: [3, 5]
+  k: F5
+- p: [4, 5]
+  k: F9
