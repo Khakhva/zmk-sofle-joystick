@@ -47,29 +47,9 @@
     combos {
         compatible = "zmk,combos";
 
-        Slash {
-            bindings = <&kp SLASH>;
-            key-positions = <44 20>;
-        };
-
         Minus {
             bindings = <&kp MINUS>;
             key-positions = <34 35>;
-        };
-
-        Backslash {
-            bindings = <&kp BACKSLASH>;
-            key-positions = <18 46>;
-        };
-
-        LeftParenthesis {
-            bindings = <&kp LEFT_PARENTHESIS>;
-            key-positions = <31 30>;
-        };
-
-        RightPerenthesis {
-            bindings = <&kp RIGHT_PARENTHESIS>;
-            key-positions = <33 34>;
         };
 
         Backspace {
