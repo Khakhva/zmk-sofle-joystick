@@ -58,13 +58,13 @@
         };
 
         Copy {
-            bindings = <&kp C_AC_COPY>;
+            bindings = <&kp LC(C)>;
             key-positions = <17 18>;
             layers = <0>;
         };
 
         Paste {
-            bindings = <&kp C_AC_PASTE>;
+            bindings = <&kp LC(V)>;
             key-positions = <43 44>;
             layers = <0>;
         };
@@ -98,6 +98,26 @@
         Calculator {
             bindings = <&kp C_AL_CALCULATOR>;
             key-positions = <24 25>;
+        };
+
+        f2 {
+            bindings = <&kp F2>;
+            key-positions = <1 2>;
+        };
+
+        f4 {
+            bindings = <&kp F4>;
+            key-positions = <4 3>;
+        };
+
+        f5 {
+            bindings = <&kp F5>;
+            key-positions = <3 5>;
+        };
+
+        f9 {
+            bindings = <&kp F9>;
+            key-positions = <4 5>;
         };
     };
 
