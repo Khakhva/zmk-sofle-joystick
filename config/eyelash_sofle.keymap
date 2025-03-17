@@ -124,6 +124,11 @@
             bindings = <&kp LC(X)>;
             key-positions = <16 17>;
         };
+
+        LCalculator {
+            bindings = <&kp C_AL_CALCULATOR>;
+            key-positions = <13 14>;
+        };
     };
 
     behaviors {
