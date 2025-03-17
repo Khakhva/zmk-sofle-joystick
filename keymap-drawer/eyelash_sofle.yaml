@@ -1,3 +1,4 @@
+layout: {zmk_keyboard: eyelash_sofle}
 layers:
   Main:
   - $$mdi:keyboard-esc$$
@@ -358,3 +359,5 @@ combos:
   k: F9
 - p: [16, 17]
   k: Ctl+X
+- p: [13, 14]
+  k: AL CALCULATOR
