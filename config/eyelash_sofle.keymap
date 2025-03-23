@@ -127,7 +127,7 @@
 
         LCalculator {
             bindings = <&kp C_AL_CALCULATOR>;
-            key-positions = <26 27>;
+            key-positions = <13 14>;
         };
 
         LBackspace {
