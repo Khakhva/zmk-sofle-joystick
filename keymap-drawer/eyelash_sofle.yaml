@@ -359,7 +359,7 @@ combos:
   k: F9
 - p: [16, 17]
   k: Ctl+X
-- p: [26, 27]
+- p: [13, 14]
   k: AL CALCULATOR
 - p: [29, 28]
   k: {t: '$$mdi:backspace$$', type: backspace}
