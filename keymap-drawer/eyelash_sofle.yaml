@@ -266,7 +266,7 @@ layers:
   - {t: '-', s: _}
   - KP MULTIPLY
   - KP DIVIDE
-  - {t: '$$mdi:transfer$$', type: trans}
+  - {t: '$$mdi:backspace$$', type: backspace}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: /, s: '?'}
